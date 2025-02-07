@@ -1,0 +1,21 @@
+# Файли та папки WebStorm/IntelliJ IDEA
+.idea/
+*.iml
+
+# Файли системи
+.DS_Store
+Thumbs.db
+
+# Node.js (якщо використовуєш npm/yarn)
+node_modules/
+dist/
+build/
+
+# Лог-файли
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Файли операційної системи
+*.log
+*.tmp
